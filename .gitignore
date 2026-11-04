@@ -1,0 +1,15 @@
+# Local microscopy data and secrets
+*.lif
+*.tif
+*.tiff
+*.ome.tif
+*.ome.tiff
+*.zip
+*.mp4
+*.mov
+*.webm
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.py[cod]
